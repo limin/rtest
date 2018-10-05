@@ -1,0 +1,13 @@
+{
+  "en": {
+    "invalidUsername":"Invalid username.",
+    "invalidPassword":"Invalid password.",
+    "invalidLogin":"Invalid login",
+    "invalidUrl":"Invalid url."
+ },
+ "cn": {
+  "invalidUsername":"用户名无效。",
+  "invalidPassword":"密码无效。",
+  "invalidLogin":"登录信息无效。"
+ }
+}
